@@ -18,8 +18,7 @@ Make sure to keep roblox closed before opening the executor, And then open roblo
 
 
 # Download
-
-<a href="https://gofile.io/d/fgWRpt" target="_blank" rel="noopener noreferrer">Download .rar file</a>
+In the releases tab.
 
 
 
