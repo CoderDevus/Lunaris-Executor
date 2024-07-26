@@ -58,6 +58,6 @@ Make sure to keep roblox closed before opening the executor, And then open roblo
 23. Crosshair	✅ Undetected
 
 
-# Liscence
+# License
 
 This project is licensed under the Apache License 2.0 See the LICENSE file for more details. (https://www.apache.org/licenses/LICENSE-2.0.html)
