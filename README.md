@@ -3,7 +3,7 @@ Lunaris executor is a free-to-download unrivaled Roblox script executor that all
 
 Using it can help you increase your movement speed in-game, automate certain tasks, get abilities like aimbot, etc. It is user-friendly and easy to use, especially for those who are new to scripting in Roblox or scripting in general.
 
-Alternatives like JJSploit and Kiwi X can perform the same functions and sometimes even add newer ones. You can also try them out if you wish to experiment with different apps.
+Alternatives like Solara and Wave can perform the same functions and sometimes even add newer ones. You can also try them out if you wish to experiment with different apps.
 
 Requirements for Running Lunaris Executor Ensure that the requirements mentioned below are met before you proceed to download and install this app for your PC.
 
