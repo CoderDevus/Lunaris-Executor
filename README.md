@@ -5,7 +5,7 @@ Using it can help you increase your movement speed in-game, automate certain tas
 
 Alternatives like JJSploit and Kiwi X can perform the same functions and sometimes even add newer ones. You can also try them out if you wish to experiment with different apps.
 
-Requirements for Running AstroExecutor Ensure that the requirements mentioned below are met before you proceed to download and install this app for your PC.
+Requirements for Running Lunaris Executor Ensure that the requirements mentioned below are met before you proceed to download and install this app for your PC.
 
  Disable your anti-virus before launching it. This tool will run custom code into the game which allows a player to get unique abilities. So sometimes it can be flagged as a threat by your anti-virus software. Ensure that you have Microsoft Visual C++ Redistributable and Microsoft .NET Framework installed.
 
