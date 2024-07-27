@@ -33,7 +33,7 @@ In the releases tab.
 # Features:
 
 1. Spoofer	✅ Undetected
-2. Skinchanger	✅ Undetected
+2. Crosshair	✅ Undetected
 3. Aimbot	✅ Undetected
 4. ESP	✅ Undetected
 5. Exploits	✅ Undetected
@@ -48,13 +48,13 @@ In the releases tab.
 14. Player Names	✅ Undetected
 15. Aim While Jumping	✅ Undetected
 16. No Weapon Switch Delay	✅ Undetected
-17.   No Spread	✅ Undetected
-18.  Rapid Fire	✅ Undetected
+17. No Spread	✅ Undetected
+18. Rapid Fire	✅ Undetected
 19. Trigger Bot	✅ Undetected
 20. AirStuck	✅ Undetected
 21. 360 Fov	✅ Undetected
 22. Fov Circle off/on	✅ Undetected
-23. Crosshair	✅ Undetected
+
 
 
 # License
