@@ -7,28 +7,11 @@ Alternatives like Solara and Wave can perform the same functions and sometimes e
 
 Requirements for Running Lunaris Executor Ensure that the requirements mentioned below are met before you proceed to download and install this app for your PC.
 
- Disable your anti-virus before launching it. This tool will run custom code into the game which allows a player to get unique abilities. So sometimes it can be flagged as a threat by your anti-virus software. Ensure that you have Microsoft Visual C++ Redistributable and Microsoft .NET Framework installed.
 
-# How to download it
-1. Download the executor
-2. Open the executor
-3. Enjoy!
-
-Make sure to keep roblox closed before opening the executor, And then open roblox.
-
-
-# Download
-In the releases tab.
-
-
-
+ 
 ![newnewe](https://github.com/user-attachments/assets/6baee751-d37f-4e06-806f-3bd8b617a5ad)
 
 ![Lunaris executor LOGO](https://github.com/user-attachments/assets/250b5eba-674b-4110-95a0-e3d29d7ac8d9)
-
-
-
-
 
 # Features:
 
@@ -56,6 +39,19 @@ In the releases tab.
 22. Fov Circle off/on	✅ Undetected
 
 
+# How to download it
+1. Download the executor
+2. Open the executor
+3. Enjoy!
+
+Make sure to keep roblox closed before opening the executor, And then open roblox.
+
+
+# Download
+In the releases tab.
+
+#⚠️ Disclaimer⚠️
+Make sure to disable your anti-virus before launching it. This tool will run custom code into the game which allows a player to get unique abilities. So sometimes it can be flagged as a threat by your anti-virus software. Ensure that you have Microsoft Visual C++ Redistributable and Microsoft .NET Framework installed.
 
 # License
 
